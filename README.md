@@ -1,6 +1,7 @@
 # Quiz-App
 
 Tech Stack : HTML5, Tailwind, CSS3, React
+
 Frontend: HTML, Tailwind, CSS,React Js, Java Script
 Version Control: Git and GitHub
 Hosting: Netlify
