@@ -1,6 +1,14 @@
 # Quiz-App
-This quiz web app is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard
-Frontend: HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI
+
+Tech Stack : HTML5, Tailwind, CSS3, React
+Frontend: HTML, Tailwind, CSS,React Js, Java Script
 Version Control: Git and GitHub
 Hosting: Netlify
 Code Editor and tools: VS Code
+
+✨ Welcome to Quiz Web App ✨
+
+Table of Contents
+- Overview
+- UI of Website
+- Contribution Guideline
